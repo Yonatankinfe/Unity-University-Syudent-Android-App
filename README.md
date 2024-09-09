@@ -70,7 +70,7 @@ Data is stored and updated in Firebase, allowing for real-time syncing between t
 
 1. Clone the repository:
 
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Yonatankinfe/Unity-University-Syudent-Android-App.git
 
 
 2. Open the project in Android Studio.
@@ -85,7 +85,7 @@ git clone https://github.com/your-repo-url.git
 
 1. Clone the repository:
 
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Yonatankinfe/Unity-University-Syudent-Android-App.git
 
 
 2. Host the web files on a local server or a web hosting service.

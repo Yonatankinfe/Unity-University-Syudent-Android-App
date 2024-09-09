@@ -5,3 +5,18 @@ This Android app offers students a user-friendly interface to access exams, CGPA
 # Student Academic Portal App
 
 This Android app provides students with a user-friendly interface to access academic information such as exams, CGPA, grades, upcoming events, and course registration. The app is built with Android Studio and uses XML, Java, Firebase, PHP, HTML, CSS, and JavaScript to deliver a seamless experience for students, teachers, and administrators
+
+# Features
+
+# Student Interface (Android App)
+
+View exams, CGPA, grades, and upcoming events.
+
+Course registration functionality.
+
+Personalized content after registration, including events, grades, and upcoming exams.
+
+Intuitive and user-friendly design using XML for the UI and Java for functionality.
+
+Real-time data retrieval and updates via Firebase.
+

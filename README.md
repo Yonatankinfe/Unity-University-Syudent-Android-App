@@ -41,3 +41,73 @@ Backend: Firebase (JavaScript, JSON, AJAX for data handling)
 
 Database: Firebase Realtime Database
 
+# Admin Website (Admin, Teachers, Student Union)
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP for server-side logic
+
+Database: Firebase Realtime Database
+
+
+# How it Works
+
+1. Student Registration:
+
+Students use their ID to register via the Android app.
+
+After registration, personalized content such as grades, events, and exams are delivered directly to their app.
+
+
+
+2. Admin/Teacher/Union Access:
+
+The admin, teachers, and student union access the platform through a web interface where they can manage students' data and events.
+
+Data is stored and updated in Firebase, allowing for real-time syncing between the web interface and the Android app.
+
+# Installation Android App
+
+1. Clone the repository:
+
+git clone https://github.com/your-repo-url.git
+
+
+2. Open the project in Android Studio.
+
+
+3. Build the project and run the app on an emulator or physical device.
+
+
+4. Ensure Firebase configuration is set up for the project (add google-services.json).
+
+# Admin Website
+
+1. Clone the repository:
+
+git clone https://github.com/your-repo-url.git
+
+
+2. Host the web files on a local server or a web hosting service.
+
+
+3. Make sure to configure Firebase for the web interface.
+
+# Dependencies
+
+Android: Android SDK, Firebase SDK
+
+Web: PHP 7+, Firebase JavaScript SDK
+
+
+# Contributing
+
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+

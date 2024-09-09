@@ -20,3 +20,24 @@ Intuitive and user-friendly design using XML for the UI and Java for functionali
 
 Real-time data retrieval and updates via Firebase.
 
+# Admin Interface (Web Application)
+
+Admin, teachers, and student union can access the portal via a web interface.
+
+Features for managing student data, grades, exams, events, and more.
+
+Built using HTML, CSS, JavaScript, and basic PHP for data handling.
+
+Firebase is used for data storage and real-time updates.
+
+
+# Technology Stack
+
+Android App (Student Interface)
+
+Frontend: XML (UI), Java
+
+Backend: Firebase (JavaScript, JSON, AJAX for data handling)
+
+Database: Firebase Realtime Database
+

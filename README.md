@@ -104,24 +104,7 @@ Web: PHP 7+, Firebase JavaScript SDK
 
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
 
-# Image
-![Screenshot_20240909-162609_unity_university_project.jpg](https://github.![Screenshot_20240909-162600_unity_university_project.jpg](https://github.com/user-attachments/assets/ea849d92-bcea-4e7f-88d2-a1f3e880b183)
-
-ding Screenshot_20240909-162600_unity_university_project.jpg …]()
-
-![Screenshot_20240909-162440_unity_university_project.jpg](https://github.com/user-attachments/assets/00ead8f6-a37b-417b-a805-9e72e57a5975)
-
-![Uploa![Screenshot_20240909-162545_unity_university_project.jpg](https://github.![Screenshot_20240909-162427_unity_university_project.jpg](https://github.com/user-attachments/assets/07882ead-a605-4f16-9052-c08abbf45a96)
-
-reenshot_20240909-162545_unity_university_project.jpg …]()
-
-![Uploading Screenshot_20240909-162427_unity_university_project.jpg …]()
-
-![Screenshot_20240909-162534_unity_university_project.jpg](https://github.com/user-attachments/assets/70ae839c-ce93-480d-abbc-6e5bfd423a35)
-
-![Screenshot_20240909-162616_unity_university_project.jpg](https://github.com/user-attachments/assets/73fa3b86-e48e-4c81-b06e-4b63b20db068)
-
-![Screenshot_20240909-162625_unity_university_project.jpg](https://github.com/user-attachments/assets/c2f93afb-c45f-43ba-8452-b40338c88356)
+# Images
 
 # License
 

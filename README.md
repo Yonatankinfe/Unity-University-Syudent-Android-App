@@ -111,7 +111,7 @@ Pull requests are welcome. For significant changes, please open an issue first t
 
 ![Uploa![Screenshot_20240909-162427_unity_university_project.jpg](https://github.com/user-attachments/assets/481fe651-e9c4-446b-a709-222a0f69e379)
 
-ding Screenshot_20240909-162427_unity_university_project.jpg …]()
+
 
 ![Screenshot_20240909-162545_unity_university_project.jpg](https://github.com/user-attachments/assets/cfa80105-3981-4c57-b388-20990ee4c250)
 

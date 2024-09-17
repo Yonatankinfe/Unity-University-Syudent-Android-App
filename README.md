@@ -28,7 +28,7 @@ Features for managing student data, grades, exams, events, and more.
 
 Built using HTML, CSS, JavaScript, and basic PHP for data handling.
 
-Firebase is used for data storage and real-time updates.
+Php is used for data storage and real-time updates.
 
 
 # Technology Stack
@@ -136,7 +136,6 @@ Pull requests are welcome. For significant changes, please open an issue first t
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 
